@@ -3,7 +3,8 @@
 
  Design de um cartão de crédito do banco inter, utilizando HTML,CSS e Hover effect
  
-# ![Designinter](Front-end/Projetos/cartao/img/cpt1.jpg)
+<p align="center">
+ <img width="470" height="300" src="https://github.com/viniciusgo61/cartao/blob/master/img/cpt1.png">
 
 ## Sobre o Projeto
 
