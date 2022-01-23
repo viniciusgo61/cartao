@@ -4,7 +4,7 @@
  Design de um cartão de crédito do banco inter, utilizando HTML,CSS e Hover effect
  
 <p align="center">
- <img width="800" height="500" src="https://github.com/viniciusgo61/cartao/blob/master/img/gif.gif">
+ <img width="750" height="600" src="https://github.com/viniciusgo61/cartao/blob/master/img/gif.gif">
 
 ## Sobre o Projeto
 
